@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+faiss-cpu
+fastapi
+uvicorn
+joblib
+pyarrow
+openpyxl
